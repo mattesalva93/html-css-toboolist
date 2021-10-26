@@ -48,11 +48,14 @@ header span{
     background-color: white;
     padding: 15px;
 }
-.newtask{
+.newtask, .finaltask{
     background-color: white;
     margin-left: 55px;
     font-size: 20px;
     margin-top: 15px;
+}
+.finaltask{
+    margin-bottom: 100px;
 }
 section h1{
     background-color: white;
@@ -62,7 +65,7 @@ section h1{
 .newtitle{
     margin-top: 50px;
 }
-.check{
+.check, .false{
     color:#67C2AC;
     border-radius: 50%;
     border: 1px solid #67C2AC;
@@ -70,9 +73,7 @@ section h1{
 }
 .false{
     color:#F0776F;
-    border-radius: 50%;
     border: 1px solid #F0776F;
-    padding: 3px;
 }
 #editorial, #q1goals, #recruiting, #mobile, #website, #sales {
     background-color: #45ABEA;
@@ -96,11 +97,4 @@ section h1{
 }
 #sales{
     background-color: #B0C926;
-}
-.finaltask{
-    background-color: white;
-    margin-left: 55px;
-    font-size: 20px;
-    margin-top: 15px;
-    margin-bottom: 100px;
 }

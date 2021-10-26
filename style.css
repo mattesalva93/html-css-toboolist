@@ -85,7 +85,7 @@ section h1{
     margin: 0 5px;
 }
 
-.today{
+.newtitle{
     margin-top: 50px;
 }
 
@@ -124,4 +124,32 @@ section h1{
     font-size: 12px;
     padding: 5px 10px;
     margin: 0 5px;
+}
+
+#website{
+    background-color: #D863A1;
+    color: white;
+    border: 1px solid #D863A1;
+    border-radius: 20px;
+    font-size: 12px;
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+
+#sales{
+    background-color: #B0C926;
+    color: white;
+    border: 1px solid #B0C926;
+    border-radius: 20px;
+    font-size: 12px;
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+
+.finaltask{
+    background-color: white;
+    margin-left: 55px;
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 100px;
 }

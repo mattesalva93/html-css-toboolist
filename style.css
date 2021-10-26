@@ -8,19 +8,20 @@
     background-color: white;
 }
 header span{
-    background-color: white;
-}
-header span{
     font-size: 55px;
     font-weight: bold;
     vertical-align: bottom;
+    background-color: white;
 }
-.pulsantiadd{
+.pulsantiadd, .container{
     margin-left: 200px;
     margin-right: 200px;
     margin-top: 40px;
     background-color: white;
     padding: 15px;
+}
+.container{
+    margin-top: 3px;
 }
 .pulsantiadd div{
     margin-left: 55px;
@@ -28,7 +29,7 @@ header span{
     margin-top: 5px;
     background-color: white;
 }
-#task{
+#task, #selection{
     background-color: #47ADF1;
     color:white;
     padding: 6px;
@@ -38,15 +39,6 @@ header span{
     background-color: white;
     color:#C5CBD0;
     border: 1px solid #C5CBD0;
-    padding: 6px;
-    border-radius: 5px;
-}
-.container{
-    margin-left: 200px;
-    margin-right: 200px;
-    margin-top: 3px;
-    background-color: white;
-    padding: 15px;
 }
 .newtask, .finaltask{
     background-color: white;
@@ -60,9 +52,6 @@ header span{
 section h1{
     background-color: white;
     margin-left: 55px;
-    margin-top: 15px;
-}
-.newtitle{
     margin-top: 50px;
 }
 .check, .false{

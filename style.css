@@ -1,10 +1,15 @@
 *{
     margin: 0;
     padding: 0;
+    background-color: #F6F8F9;
 }
 
 .logo{
     padding: 30px;
+    background-color: white;
+}
+header span{
+    background-color: white;
 }
 
 header span{
@@ -13,7 +18,33 @@ header span{
     vertical-align: bottom;
 }
 
+.pulsantiadd{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 40px;
+    background-color: white;
+    padding: 15px;
+}
+.pulsantiadd div{
+    margin-left: 55px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    background-color: white;
+}
 
-main{
-    background-color: #F6F8F9;
+#task{
+    background-color: #47ADF1;
+    color:white;
+    padding: 6px;
+    border-radius: 5px;
+    border: 1px solid #47ADF1;
+
+}
+
+#selection{
+    background-color: white;
+    color:#C5CBD0;
+    border: 1px solid #C5CBD0;
+    padding: 6px;
+    border-radius: 5px;
 }

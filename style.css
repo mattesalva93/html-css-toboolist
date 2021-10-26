@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    padding: 30px;
+}
+
+header span{
+    font-size: 55px;
+    font-weight: bold;
+    vertical-align: bottom;
+}
+
+
+main{
+    background-color: #F6F8F9;
+}

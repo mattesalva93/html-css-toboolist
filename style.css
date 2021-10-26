@@ -62,7 +62,7 @@ header span{
     font-size: 20px;
     margin-top: 15px;
 }
-.container h1{
+section h1{
     background-color: white;
     margin-left: 55px;
     margin-top: 15px;
@@ -79,6 +79,47 @@ header span{
     background-color: #45ABEA;
     color: white;
     border: 1px solid #45ABEA;
+    border-radius: 20px;
+    font-size: 12px;
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+
+.today{
+    margin-top: 50px;
+}
+
+#q1goals{
+    background-color: #9C72E4;
+    color: white;
+    border: 1px solid #9C72E4;
+    border-radius: 20px;
+    font-size: 12px;
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+
+#recruiting{
+    background-color: #64C0A9;
+    color: white;
+    border: 1px solid #64C0A9;
+    border-radius: 20px;
+    font-size: 12px;
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+
+.false{
+    color:#F0776F;
+    border-radius: 50%;
+    border: 1px solid #F0776F;
+    padding: 3px;
+}
+
+#mobile{
+    background-color: #F29E33;
+    color: white;
+    border: 1px solid #F29E33;
     border-radius: 20px;
     font-size: 12px;
     padding: 5px 10px;

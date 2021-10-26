@@ -3,7 +3,6 @@
     padding: 0;
     background-color: #F6F8F9;
 }
-
 .logo{
     padding: 30px;
     background-color: white;
@@ -11,13 +10,11 @@
 header span{
     background-color: white;
 }
-
 header span{
     font-size: 55px;
     font-weight: bold;
     vertical-align: bottom;
 }
-
 .pulsantiadd{
     margin-left: 200px;
     margin-right: 200px;
@@ -31,15 +28,12 @@ header span{
     margin-top: 5px;
     background-color: white;
 }
-
 #task{
     background-color: #47ADF1;
     color:white;
     padding: 6px;
     border-radius: 5px;
-    border: 1px solid #47ADF1;
 }
-
 #selection{
     background-color: white;
     color:#C5CBD0;
@@ -47,7 +41,6 @@ header span{
     padding: 6px;
     border-radius: 5px;
 }
-
 .container{
     margin-left: 200px;
     margin-right: 200px;
@@ -55,7 +48,6 @@ header span{
     background-color: white;
     padding: 15px;
 }
-
 .newtask{
     background-color: white;
     margin-left: 55px;
@@ -67,85 +59,44 @@ section h1{
     margin-left: 55px;
     margin-top: 15px;
 }
-
+.newtitle{
+    margin-top: 50px;
+}
 .check{
     color:#67C2AC;
     border-radius: 50%;
     border: 1px solid #67C2AC;
     padding: 3px;
 }
-
-#editorial{
-    background-color: #45ABEA;
-    color: white;
-    border: 1px solid #45ABEA;
-    border-radius: 20px;
-    font-size: 12px;
-    padding: 5px 10px;
-    margin: 0 5px;
-}
-
-.newtitle{
-    margin-top: 50px;
-}
-
-#q1goals{
-    background-color: #9C72E4;
-    color: white;
-    border: 1px solid #9C72E4;
-    border-radius: 20px;
-    font-size: 12px;
-    padding: 5px 10px;
-    margin: 0 5px;
-}
-
-#recruiting{
-    background-color: #64C0A9;
-    color: white;
-    border: 1px solid #64C0A9;
-    border-radius: 20px;
-    font-size: 12px;
-    padding: 5px 10px;
-    margin: 0 5px;
-}
-
 .false{
     color:#F0776F;
     border-radius: 50%;
     border: 1px solid #F0776F;
     padding: 3px;
 }
-
+#editorial, #q1goals, #recruiting, #mobile, #website, #sales {
+    background-color: #45ABEA;
+    color: white;
+    border-radius: 20px;
+    font-size: 12px;
+    padding: 5px 10px;
+    margin: 0 5px;
+}
+#q1goals{
+    background-color: #9C72E4;
+}
+#recruiting{
+    background-color: #64C0A9;
+}
 #mobile{
     background-color: #F29E33;
-    color: white;
-    border: 1px solid #F29E33;
-    border-radius: 20px;
-    font-size: 12px;
-    padding: 5px 10px;
-    margin: 0 5px;
 }
-
 #website{
     background-color: #D863A1;
-    color: white;
-    border: 1px solid #D863A1;
-    border-radius: 20px;
-    font-size: 12px;
-    padding: 5px 10px;
-    margin: 0 5px;
 }
-
 #sales{
     background-color: #B0C926;
-    color: white;
-    border: 1px solid #B0C926;
-    border-radius: 20px;
-    font-size: 12px;
-    padding: 5px 10px;
-    margin: 0 5px;
 }
-
 .finaltask{
     background-color: white;
     margin-left: 55px;

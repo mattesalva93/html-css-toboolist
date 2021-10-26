@@ -59,6 +59,7 @@ section h1{
     border-radius: 50%;
     border: 1px solid #67C2AC;
     padding: 2px 4px;
+    background-color: white;
 }
 .false{
     color:#F0776F;

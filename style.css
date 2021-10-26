@@ -27,7 +27,7 @@ header span{
 }
 .pulsantiadd div{
     margin-left: 55px;
-    margin-bottom: 5px;
+    margin-bottom: -1px;
     margin-top: 5px;
     background-color: white;
 }
@@ -38,7 +38,6 @@ header span{
     padding: 6px;
     border-radius: 5px;
     border: 1px solid #47ADF1;
-
 }
 
 #selection{
@@ -47,4 +46,41 @@ header span{
     border: 1px solid #C5CBD0;
     padding: 6px;
     border-radius: 5px;
+}
+
+.container{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 3px;
+    background-color: white;
+    padding: 15px;
+}
+
+.newtask{
+    background-color: white;
+    margin-left: 55px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+.container h1{
+    background-color: white;
+    margin-left: 55px;
+    margin-top: 15px;
+}
+
+.check{
+    color:#67C2AC;
+    border-radius: 50%;
+    border: 1px solid #67C2AC;
+    padding: 3px;
+}
+
+#editorial{
+    background-color: #45ABEA;
+    color: white;
+    border: 1px solid #45ABEA;
+    border-radius: 20px;
+    font-size: 12px;
+    padding: 5px 10px;
+    margin: 0 5px;
 }

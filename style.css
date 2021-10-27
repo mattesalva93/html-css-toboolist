@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     background-color: #F6F8F9;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .logo{
     padding: 30px;
@@ -54,12 +55,19 @@ section h1{
     margin-left: 55px;
     margin-top: 50px;
 }
+.container h1 span{
+    font-size: 15px;
+    background-color: white;
+    vertical-align: middle;
+}
 .check, .false{
     color:#67C2AC;
     border-radius: 50%;
     border: 1px solid #67C2AC;
     padding: 2px 4px;
     background-color: white;
+    font-size: 11px;
+    vertical-align: middle;
 }
 .false{
     color:#F0776F;
